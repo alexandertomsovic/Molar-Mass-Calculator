@@ -5,6 +5,6 @@ or googling molar masses of elemental compounds became too annoying to deal with
 
 I hope you enjoy!
 
-View
+View my other projects here.
 
 linktr.ee/alextomsovic
