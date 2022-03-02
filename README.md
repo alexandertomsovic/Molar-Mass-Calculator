@@ -7,4 +7,4 @@ I hope you enjoy!
 
 View
 
-#linktr.ee/alextomsovic
+linktr.ee/alextomsovic
