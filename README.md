@@ -11,6 +11,6 @@ https://replit.com/@AlexTomsovic/Molar-Mass-Calc#main.py
 
 View my other projects here.
 
-linktr.ee/alextomsovic
+www.linktr.ee/alextomsovic
 
 Built with Python by Alex Tomsovic (A.R.T. Corp LLC)
